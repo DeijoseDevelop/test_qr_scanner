@@ -1,2 +1,2 @@
 * linguist-vendored
-*.dart, .py linguist-vendored=false
+*.dart linguist-vendored=false
